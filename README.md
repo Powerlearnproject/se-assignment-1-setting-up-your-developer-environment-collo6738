@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15292205&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -50,3 +52,82 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+  
+  ANSWERS TO ASSIGNMENT 1
+1. Select Your Operating System (OS)
+Operating System: Windows 11
+Ensure your computer meets the minimum hardware requirements for Windows 11. If not, consider alternatives or upgrade your hardware accordingly.
+
+2. Install a Text Editor or Integrated Development Environment (IDE)
+Text Editor/IDE: Visual Studio Code
+
+-Navigate to Visual Studio Code Download Page.
+
+-Download the installer suitable for Windows.
+
+-Run the installer and follow the on-screen instructions.
+
+3. Set Up Version Control System
+Version Control System: Git
+
+-Navigate to Git Downloads.
+
+-Download the Git installer suitable for Windows.
+
+-Run the installer and follow the on-screen instructions, leaving the default options unchanged.
+
+-Open Git Bash and configure Git globally:
+bash
+Copy code
+git config --global user.name "collo"
+git config --global user.email "collinscheserek83@gmail.com"
+4. Install Necessary Programming Languages and Runtimes
+Programming Language: Python
+
+-Navigate to Python Downloads.
+
+-Download the latest version of Python for Windows.
+
+-Run the installer and select "Add Python to PATH" during installation.
+
+5. Install Package Managers
+Package Manager: pip (Python)
+
+-Open Command Prompt or Git Bash.
+
+-Verify pip installation by running:
+
+bash
+Copy code
+python -m pip --version
+
+6. Configure a Database (MySQL)
+Database: MySQL
+
+-Navigate to MySQL Downloads.
+
+-Download the MySQL Installer for Windows.
+
+-Run the installer and choose the MySQL Server during installation.
+
+-Set a root password and complete the installation process.
+
+
+7. Set Up Development Environments and Virtualization (Optional)
+Virtualization Tool: Docker (Optional)
+
+-Navigate to Docker Desktop for Windows.
+
+-Download the Docker Desktop installer for Windows.
+
+-Run the installer and follow the on-screen instructions.
+
+8. Explore Extensions and Plugins
+Extensions for Visual Studio Code
+
+-Open Visual Studio Code.
+
+-Go to the Extensions Marketplace (Ctrl+Shift+X).
+
+
+-Search and install extensions for Python, Git, Docker, and any other relevant tools.
